@@ -1,4 +1,4 @@
-# textinformatikavue
+# WeatherAppOnVue
 
 ## Project setup
 ```
